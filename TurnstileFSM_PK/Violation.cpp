@@ -1,7 +1,8 @@
 #include "Violation.h"
 #include "TurnstileFSM.h"
 #include "Locked.h"
-
+// COPIRAIT PYRY KOSOLA
+// TTV14SP
 void Violation::Coin()
 {
     std::cout << "VIOLATION: Please contact administrator before proceeding." << std::endl;

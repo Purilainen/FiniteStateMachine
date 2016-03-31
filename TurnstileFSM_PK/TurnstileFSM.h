@@ -1,8 +1,10 @@
 #ifndef TURNSTILEFSM_H
 #define TURNSTILEFSM_H
-
+// COPIRAIT PYRY KOSOLA
+// TTV14SP
 #include "TurnstileStates.h"
 #include "TurnstileGate.h"
+#include <iostream>
 
 class TurnstileStates;
 class TurnstileFSM

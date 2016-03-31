@@ -2,7 +2,8 @@
 #include "TurnstileFSM.h"
 #include "Unlocked.h"
 #include "Violation.h"
-
+// COPIRAIT PYRY KOSOLA
+// TTV14SP
 void Locked::Coin()
 {
     m_FSM->GetGate()->Unlock();
